@@ -1,4 +1,4 @@
-Este foi meu primeiro trabalho da escola.
+Este foi meu 1° trabalho da escola.
 Nele foi utilizado duas tecnologias de Front-End, HTML5 e CSS3, utlizando o que o professor ensinou em sala de aula.
 
 
